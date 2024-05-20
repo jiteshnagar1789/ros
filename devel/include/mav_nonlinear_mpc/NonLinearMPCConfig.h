@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/mav_nonlinear_mpc/include/mav_nonlinear_mpc/NonLinearMPCConfig.h

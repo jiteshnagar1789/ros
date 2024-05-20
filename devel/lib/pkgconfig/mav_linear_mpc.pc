@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/pkgconfig/mav_linear_mpc.pc

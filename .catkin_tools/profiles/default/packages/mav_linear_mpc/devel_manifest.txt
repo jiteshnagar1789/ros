@@ -1,0 +1,15 @@
+mav_control_rw/mav_linear_mpc
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/cmake.lock /home/jitesh/catkin_ws/devel/./cmake.lock
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/cmake/mav_linear_mpcConfig.cmake /home/jitesh/catkin_ws/devel/share/mav_linear_mpc/cmake/mav_linear_mpcConfig.cmake
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/cmake/mav_linear_mpcConfig-version.cmake /home/jitesh/catkin_ws/devel/share/mav_linear_mpc/cmake/mav_linear_mpcConfig-version.cmake
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/docs/LinearMPCConfig-usage.dox /home/jitesh/catkin_ws/devel/share/mav_linear_mpc/docs/LinearMPCConfig-usage.dox
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/docs/LinearMPCConfig.wikidoc /home/jitesh/catkin_ws/devel/share/mav_linear_mpc/docs/LinearMPCConfig.wikidoc
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/docs/LinearMPCConfig.dox /home/jitesh/catkin_ws/devel/share/mav_linear_mpc/docs/LinearMPCConfig.dox
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/libcvxgen_solver.so /home/jitesh/catkin_ws/devel/lib/libcvxgen_solver.so
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/libmav_linear_mpc.so /home/jitesh/catkin_ws/devel/lib/libmav_linear_mpc.so
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/python3/dist-packages/mav_linear_mpc/__init__.py /home/jitesh/catkin_ws/devel/lib/python3/dist-packages/mav_linear_mpc/__init__.py
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/python3/dist-packages/mav_linear_mpc/cfg/__init__.py /home/jitesh/catkin_ws/devel/lib/python3/dist-packages/mav_linear_mpc/cfg/__init__.py
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/python3/dist-packages/mav_linear_mpc/cfg/LinearMPCConfig.py /home/jitesh/catkin_ws/devel/lib/python3/dist-packages/mav_linear_mpc/cfg/LinearMPCConfig.py
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/pkgconfig/mav_linear_mpc.pc /home/jitesh/catkin_ws/devel/lib/pkgconfig/mav_linear_mpc.pc
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/lib/mav_linear_mpc/mav_linear_mpc_node /home/jitesh/catkin_ws/devel/lib/mav_linear_mpc/mav_linear_mpc_node
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/include/mav_linear_mpc/LinearMPCConfig.h /home/jitesh/catkin_ws/devel/include/mav_linear_mpc/LinearMPCConfig.h

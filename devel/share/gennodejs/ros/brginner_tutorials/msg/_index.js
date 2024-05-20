@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/brginner_tutorials/share/gennodejs/ros/brginner_tutorials/msg/_index.js

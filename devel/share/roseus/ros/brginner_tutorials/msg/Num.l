@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/brginner_tutorials/share/roseus/ros/brginner_tutorials/msg/Num.l

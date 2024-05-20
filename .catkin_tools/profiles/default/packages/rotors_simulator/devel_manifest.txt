@@ -1,0 +1,2 @@
+rotors_simulator/rotors_simulator
+/home/jitesh/catkin_ws/devel/.private/rotors_simulator/cmake.lock /home/jitesh/catkin_ws/devel/./cmake.lock

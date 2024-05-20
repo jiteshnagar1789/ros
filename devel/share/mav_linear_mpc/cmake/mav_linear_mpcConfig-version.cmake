@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/mav_linear_mpc/share/mav_linear_mpc/cmake/mav_linear_mpcConfig-version.cmake

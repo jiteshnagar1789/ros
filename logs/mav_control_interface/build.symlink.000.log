@@ -1,0 +1,5 @@
+Symlinking /home/jitesh/catkin_ws/devel/share/mav_control_interface/cmake/mav_control_interfaceConfig.cmake
+Symlinking /home/jitesh/catkin_ws/devel/share/mav_control_interface/cmake/mav_control_interfaceConfig-version.cmake
+Symlinking /home/jitesh/catkin_ws/devel/lib/libmav_control_interface.so
+Symlinking /home/jitesh/catkin_ws/devel/lib/pkgconfig/mav_control_interface.pc
+Symlinking /home/jitesh/catkin_ws/devel/lib/mav_control_interface/mav_control_interface_test_node

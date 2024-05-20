@@ -1,0 +1,8 @@
+prefix=/home/jitesh/catkin_ws/install
+
+Name: brginner_tutorials
+Description: Description of brginner_tutorials
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

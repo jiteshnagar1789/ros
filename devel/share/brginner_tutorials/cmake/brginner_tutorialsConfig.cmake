@@ -1,0 +1,1 @@
+/home/jitesh/catkin_ws/devel/.private/brginner_tutorials/share/brginner_tutorials/cmake/brginner_tutorialsConfig.cmake
